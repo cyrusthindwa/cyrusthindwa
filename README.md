@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cyrus-thindwa.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cyrus-thindwa-028a41368)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thelastgoth128)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cyrusthindwa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thindwacyrus86@gmail.com)
 
 </div>
@@ -109,9 +109,9 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=thelastgoth128&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=thelastgoth128&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thelastgoth128&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=cyrusthindwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=cyrusthindwa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrusthindwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -119,7 +119,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=thelastgoth128&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=cyrusthindwa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
@@ -140,7 +140,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=thelastgoth128&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=cyrusthindwa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 *Built with passion from Malawi 🇲🇼*
 
