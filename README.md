@@ -4,7 +4,7 @@
 
 ### Full-Stack Engineer · AI Systems Builder · Graphics Programmer
 
-*Shipping production software across healthcare, education, finance, and gaming — from Malawi to the world*
+*Shipping production software across healthcare, education, finance, and gaming - from Malawi to the world*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cyrus-thindwa.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cyrus-thindwa-028a41368)
