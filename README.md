@@ -32,7 +32,7 @@
 | Project | Description | Status |
 |--------|-------------|--------|
 | 🎮 **Xbox Game Camp Africa** | Simulation & gaming platform with Q2 Corporation | 🟢 Active |
-| 🔐 **AegisKYC** | Unified KYC platform for Malawian banks - ML, FastAPI, Docker | 🟡 Near Completion |
+| 🔐 **AegisKYC** | Unified KYC platform — React · FastAPI · Docker · [Live](https://aegiskyc.vidente.site/) | 🟡 In Progress |
 | 🌐 **UNIMA Events System** | Student event management with payments & role-based access | 🟡 In Development |
 | ✋ **LingoHands** | ASL ↔ Text/Voice translation engine with 3D avatar pipeline | 🟡 In Development |
 
